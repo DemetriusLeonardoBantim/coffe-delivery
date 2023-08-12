@@ -11,6 +11,8 @@ import { createGlobalStyle } from 'styled-components';export const GlobalStyle =
   --text-body: #969CB3;
   --background: #F0F2F5;
   --shape: #FFFFFF;
+  --yellow: #F1E9C9;
+  --yellow-dark: #C47F17
 }
 
 * {
